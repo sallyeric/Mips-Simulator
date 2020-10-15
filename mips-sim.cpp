@@ -715,7 +715,7 @@ void DecToHex(int dec, int count)
             }
             else if (func == "001100")
             {
-                cout << " syscall "; // DONE
+                cout << " syscall"; // DONE
             }
             else if (func == "100110")
             {
@@ -1046,7 +1046,7 @@ void DecToHex(int dec, int count)
             }
             else if (func == "001100")
             {
-                cout << " syscall "; // DONE
+                cout << " syscall"; // DONE
             }
             else if (func == "100110")
             {
@@ -1437,7 +1437,7 @@ void DecToHex(int dec, int count)
             }
             else if (func == "001100")
             {
-                cout << " syscall "; // DONE
+                cout << " syscall"; // DONE
             }
             else if (func == "100110")
             {
